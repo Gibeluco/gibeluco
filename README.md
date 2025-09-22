@@ -40,7 +40,6 @@
 />
 
 />
-<img 
    <br>
 ### 📊 Estatísticas
 
