@@ -1,4 +1,5 @@
 ## Gi beluco 👋
+Estudante de Engenharia de Software na Universidade Positivo.
 
 <p align="left">
     </a> 
